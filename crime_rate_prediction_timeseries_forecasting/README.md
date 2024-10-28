@@ -1,0 +1,3 @@
+dataset : https://machinehack.com/hackathons/criminal_incident_rate_forecasting/overview?trk=public_post_comment-text
+
+Participants are tasked with developing a predictive model to estimate the number of crime incidents at a monthly level based on day and hour-level data. The dataset includes information on crime types, coordinates, and locations, presenting an opportunity to explore spatial and temporal patterns in crime data. This challenge will test your skills in time series analysis, spatial data processing, and predictive modeling.
